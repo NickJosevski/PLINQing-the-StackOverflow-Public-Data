@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.5" name="StackOverflowDataDump">
+  <DataContextMoniker Name="/StackOverflowDataDumpDataContext" />
+  <nestedChildShapes>
+    <classShape Id="df830444-352b-4d3c-b8da-abbd6c2a0282" absoluteBounds="0.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/StackOverflowDataDumpDataContext/Badge" />
+      <nestedChildShapes>
+        <elementListCompartment Id="85896958-ab6e-4276-b0a5-b352445e1db6" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="149a943f-71b1-4118-8957-fb42081ac7a3" absoluteBounds="3.75, 0.75, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/StackOverflowDataDumpDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a711199b-0efc-45de-9077-6671b791a298" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31a6bac0-ca59-4ad1-9e12-650bff5c0e1b" absoluteBounds="0.75, 4.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/StackOverflowDataDumpDataContext/Comment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae5a6807-bdfa-4fc9-ad85-6654e68beb0f" absoluteBounds="0.765, 5.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9b315edc-11a2-4430-b2b0-79658ead3439" absoluteBounds="3.75, 4.75, 2, 4.4631168619791666">
+      <DataClassMoniker Name="/StackOverflowDataDumpDataContext/Post" />
+      <nestedChildShapes>
+        <elementListCompartment Id="98501952-fd96-48bb-830b-2f83e21db2a2" absoluteBounds="3.765, 5.21, 1.9700000000000002, 3.903116861979167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="59a36b48-9e37-4a7b-8244-d61deb717b17" absoluteBounds="6.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/StackOverflowDataDumpDataContext/PostsTag" />
+      <nestedChildShapes>
+        <elementListCompartment Id="843480c8-5b0c-4b18-8783-ab6fe0383d47" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4ddd02a0-dbed-4ace-914d-991402914e39" absoluteBounds="6.75, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/StackOverflowDataDumpDataContext/Vote" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc13cb76-5690-49b2-9c9c-e772e01790c7" absoluteBounds="6.765, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
